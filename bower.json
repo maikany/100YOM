@@ -1,0 +1,15 @@
+{
+  "name": "music",
+  "version": "0.0.0",
+  "authors": [
+    "Mai Kany <mai.kany62@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
